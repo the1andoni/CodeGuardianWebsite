@@ -158,11 +158,13 @@ footer {
     .language-switch {
         flex-direction: column;
         gap: 10px;
+        margin-top: 1rem;
     }
 
     .language-link {
         padding: 8px 15px;
         font-size: 0.9rem;
+        margin-top: 1rem;
     }
 
     #hero h2 {
